@@ -1,4 +1,11 @@
-"Assig_3_23.pdf" 
-"__pycache__/" 
-".ipynb_checkpoints/" 
-".mrx-link-logs/" 
+# Ignore PDF
+*.pdf
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Optional
+.mrx-link-logs/
