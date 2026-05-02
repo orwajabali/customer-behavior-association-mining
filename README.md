@@ -50,7 +50,7 @@ Mines transactional-style customer records to discover high-confidence rules lin
 
 | File | Description |
 |---|---|
-| `association_rule_data-mining.ipynb` | Full analysis — preprocessing, Apriori, FP-Growth, insights |
+| `customer-behavior-association-mining.ipynb` | Full analysis — preprocessing, Apriori, FP-Growth, insights |
 | `bank-data.csv` | Customer records with demographics and account info |
 
 ---
